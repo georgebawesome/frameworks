@@ -16,7 +16,9 @@
             <H3 ADD_DATE="1629963327" LAST_MODIFIED="1636451377">Explore</H3>
             <DL>
               <p>
-                   <DT><A HREF="https://rslint.org/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">RSLint</A>
+                   <DT><A HREF="https://www.idris-lang.org/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Idris</A>
+                   <DT><A HREF="https://www.purescript.org/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">PureScript</A>
+                   <DT><A HREF="https://www.idris-lang.org/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">RSLint</A>
                    <DT><A HREF="https://popper.js.org/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Popper</A>
                    <DT><A HREF="https://stylelint.io/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Stylelint</A>
                    <DT><A HREF="https://webdriver.io/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">WebDriver</A>
