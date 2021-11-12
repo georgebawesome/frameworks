@@ -16,7 +16,11 @@
             <H3 ADD_DATE="1629963327" LAST_MODIFIED="1636451377">Explore</H3>
             <DL>
               <p>
+                   
+                   
+                   <DT><A HREF="https://roughnotation.com/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Rough Notation</A>
                    <DT><A HREF="https://www.chaijs.com/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Chai</A>
+                   <DT><A HREF="https://github.com/lukeed/clsx" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">CLSX</A>
                    <DT><A HREF="https://docs.react-juce.dev//" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">R Juce</A>
                    <DT><A HREF="https://www.idris-lang.org/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Idris</A>
                    <DT><A HREF="https://www.purescript.org/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">PureScript</A>
