@@ -17,7 +17,22 @@
             <DL>
               <p>
                    <DT><A HREF="https://roughnotation.com/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Rough Notation</A>
-                   <DT><A HREF="https://www.chaijs.com/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Chai</A>
+                        <DT><A HREF="https://react-select.com/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">R Select</A>
+<DT><A HREF="https://github.com/react-grid-layout/react-grid-layout" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">R Grid Layout</A>
+<DT><A HREF="https://react.useanimations.com/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">R UseAnimations</A>
+                   <DT><A HREF="https://scroll-out.github.io/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Scrollout</A>
+<DT><A HREF="https://react-beautiful-dnd.netlify.com/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">R Beautiful DND</A>
+<DT><A HREF="https://allaneagle.com/projects/react-spaces" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">R Spaces</A>
+<DT><A HREF="https://jquense.github.io/react-big-calendar/examples/index.html" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">R Big Calander</A>
+<DT><A HREF="https://reactdatepicker.com/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">R Date Picker</A>
+<DT><A HREF="https://react-joyride.com/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">R Joyride</A>
+<DT><A HREF="https://wisembly.github.io/basil.js/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Basil.js</A>
+<DT><A HREF="https://addyosmani.com/basket.js/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Basket.js</A>
+<DT><A HREF="https://localforage.github.io/localForage/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">LocalForage</A>
+<DT><A HREF="https://dimsemenov.com/plugins/magnific-popup/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Magnific Popup</A>
+<DT><A HREF="https://fancyapps.com/docs/ui/fancybox/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Fancybox</A>
+<DT><A HREF="https://github.hubspot.com/vex/docs/welcome/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Vex Popups</A>
+<DT><A HREF="https://www.chaijs.com/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Chai.js</A>
                    <DT><A HREF="https://github.com/lukeed/clsx" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">CLSX</A>
                    <DT><A HREF="https://docs.react-juce.dev//" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">R Juce</A>
                    <DT><A HREF="https://www.idris-lang.org/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Idris</A>
