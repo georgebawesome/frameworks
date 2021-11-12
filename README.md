@@ -17,6 +17,7 @@
             <DL>
               <p>
                    <DT><A HREF="https://www.chaijs.com/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Chai</A>
+                   <DT><A HREF="https://docs.react-juce.dev//" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">R Juce</A>
                    <DT><A HREF="https://www.idris-lang.org/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Idris</A>
                    <DT><A HREF="https://www.purescript.org/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">PureScript</A>
                    <DT><A HREF="https://www.idris-lang.org/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">RSLint</A>
