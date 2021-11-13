@@ -16,7 +16,10 @@
             <H3 ADD_DATE="1629963327" LAST_MODIFIED="1636451377">Explore</H3>
             <DL>
               <p>
-                   <DT><A HREF="https://alpinejs.dev/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Alpine</A>
+                   <DT><A HREF="https://rxdb.info/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Rxdb</A>
+                        <DT><A HREF="https://victordibia.com/handtrack.js/#/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Handtrack</A>
+                             <DT><A HREF="https://polished.js.org/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Polished</A>
+                        <DT><A HREF="https://alpinejs.dev/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Alpine</A>
                    <DT><A HREF="https://roughnotation.com/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Rough Notation</A>
                         <DT><A HREF="https://react-select.com/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">R Select</A>
 <DT><A HREF="https://github.com/react-grid-layout/react-grid-layout" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">R Grid Layout</A>
