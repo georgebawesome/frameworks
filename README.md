@@ -17,6 +17,7 @@
             <DL>
               <p> 
                    <DT><A HREF="https://livejs.com/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Livejs</A>
+                        <DT><A HREF="https://nvd3.org/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">NVD3</A>
                         <DT><A HREF="https://getpino.io/#/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Pino</A>
                         <DT><A HREF="https://rxdb.info/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Rxdb</A>
                         <DT><A HREF="https://gorangajic.github.io/react-svg-morph/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">R SVG Morph</A>
