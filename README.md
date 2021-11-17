@@ -1,4 +1,3 @@
-# frameworks-bookmarks
 <!DOCTYPE NETSCAPE-Bookmark-file-1>
 <!-- This is an automatically generated file.
      It will be read and overwritten.
