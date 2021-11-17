@@ -16,6 +16,7 @@
             <DL>
               <p> 
                    <DT><A HREF="https://nextra.vercel.app/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Nextra</A>
+                   <DT><A HREF="https://nextra.vercel.app/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Nextra</A>
                    <DT><A HREF="https://www.singlestore.com/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">SingleStore</A>
                    <DT><A HREF="https://react.geist-ui.dev/en-us" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Gesit UI</A>
                    <DT><A HREF="https://remix.run/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Remix</A>
