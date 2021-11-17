@@ -16,9 +16,13 @@
             <H3 ADD_DATE="1629963327" LAST_MODIFIED="1636451377">Explore</H3>
             <DL>
               <p> 
+                   <DT><A HREF="https://nextra.vercel.app/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Nextra</A>
+                   <DT><A HREF="https://www.singlestore.com/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">SingleStore</A>
+                   <DT><A HREF="https://react.geist-ui.dev/en-us" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Gesit UI</A>
+                   <DT><A HREF="https://remix.run/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Remix</A>
                    <DT><A HREF="https://livejs.com/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Livejs</A>
-                        <DT><A HREF="https://developers.themoviedb.org/3/getting-started/introduction" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Livejs</A>
-                        <DT><A HREF="https://amplication.com/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Livejs</A>
+                        <DT><A HREF="https://developers.themoviedb.org/3/getting-started/introduction" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Movie DB</A>
+                        <DT><A HREF="https://amplication.com/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Amplication</A>
                         <DT><A HREF="https://mochajs.org/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Mocha</A>
                         <DT><A HREF="https://nvd3.org/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">NVD3</A>
                         <DT><A HREF="https://getpino.io/#/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Pino</A>
