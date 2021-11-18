@@ -15,8 +15,16 @@
             <H3 ADD_DATE="1629963327" LAST_MODIFIED="1636451377">Explore</H3>
             <DL>
               <p> 
-                   <DT><A HREF="https://adonisjs.com/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Nextra</A>
-                   <DT><A HREF="https://waterlinejs.org/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Nextra</A>
+                   <DT><A HREF="https://mswjs.io/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Mswjs</A>
+                   <DT><A HREF="https://webassembly.org/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Webassembly</A>
+                   <DT><A HREF="https://nuxtjs.org/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Nuxtjs</A>
+                   <DT><A HREF="https://vuejs.org/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Vuejs</A>
+                   <DT><A HREF="https://vue-native.io/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Nextra</A>
+                   <DT><A HREF="https://nativescript-vue.org/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">VueNative</A>
+                   <DT><A HREF="https://angular.io/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Angular</A>
+                   <DT><A HREF="https://material.angular.io/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Material Angular</A>
+                   <DT><A HREF="https://adonisjs.com/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Adonis</A>
+                   <DT><A HREF="https://waterlinejs.org/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Waterline</A>
                    <DT><A HREF="https://nextra.vercel.app/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Nextra</A>
                    <DT><A HREF="https://webmonetization.org/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Monetization/</A>
                    <DT><A HREF="https://www.singlestore.com/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">SingleStore</A>
