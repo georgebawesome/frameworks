@@ -15,6 +15,8 @@
             <H3 ADD_DATE="1629963327" LAST_MODIFIED="1636451377">Explore</H3>
             <DL>
               <p> 
+                   <DT><A HREF="https://adonisjs.com/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Nextra</A>
+                   <DT><A HREF="https://waterlinejs.org/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Nextra</A>
                    <DT><A HREF="https://nextra.vercel.app/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Nextra</A>
                    <DT><A HREF="https://webmonetization.org/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Monetization/</A>
                    <DT><A HREF="https://www.singlestore.com/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">SingleStore</A>
