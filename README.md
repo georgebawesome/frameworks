@@ -16,6 +16,7 @@
             <DL>
               <p> 
                    <DT><A HREF="https://inspx.rauno.xyz/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Inspx</A>
+                   <DT><A HREF="https://github.com/nanostores/nanostores" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Nanostores</A>
                    <DT><A HREF="https://mswjs.io/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Mswjs</A>
                    <DT><A HREF="https://webassembly.org/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Webassembly</A>
                    <DT><A HREF="https://nuxtjs.org/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Nuxtjs</A>
