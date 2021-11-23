@@ -16,6 +16,7 @@
             <DL>
               <p> 
                    <DT><A HREF="https://cssnano.co/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">CSSNano</A>
+                   <DT><A HREF="https://www.edgedb.com/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">EdgeDB</A>
                    <DT><A HREF="https://cros-anywhere.herokuapp.com/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">CROS Anywhere</A>
                    <DT><A HREF="https://react-hot-toast.com/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">R Toast</A>
                    <DT><A HREF="https://popsql.com/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">PopSQL</A>
