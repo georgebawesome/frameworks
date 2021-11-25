@@ -16,10 +16,14 @@
             <DL>
               <p> 
                    <DT><A HREF="https://cssnano.co/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">CSSNano</A>
+                   <DT><A HREF="https://soliditylang.org/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Solidity</A>
+                    <DT><A HREF="https://www.npmjs.com/package/slugify" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Slugify</A>
+                   <DT><A HREF="https://hydrogen-js.netlify.app/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">HydrogenJS</A>
+                   <DT><A HREF="https://hydrogen.shopify.dev/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Hydrogen</A>
                    <DT><A HREF="https://www.next-mdx.org/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Next MDX</A>
                    <DT><A HREF="https://reflexjs.org/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">ReflexJS</A>
-                   <DT><A HREF="https://nexusjs.org/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">CSSNano</A>
-                   <DT><A HREF="https://www.edgedb.com/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Nexusjs</A>
+                   <DT><A HREF="https://nexusjs.org/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">NexusJS</A>
+                   <DT><A HREF="https://www.edgedb.com/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">EdgeDB</A>
                    <DT><A HREF="https://cros-anywhere.herokuapp.com/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">CROS Anywhere</A>
                    <DT><A HREF="https://react-hot-toast.com/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">R Toast</A>
                    <DT><A HREF="https://popsql.com/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">PopSQL</A>
