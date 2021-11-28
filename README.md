@@ -15,6 +15,7 @@
             <H3 ADD_DATE="1629963327" LAST_MODIFIED="1636451377">Explore</H3>
             <DL>
               <p> 
+                   <DT><A HREF="https://immerjs.github.io/immer/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Immer</A>
                    <DT><A HREF="https://cssnano.co/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">CSSNano</A>
                    <DT><A HREF="https://soliditylang.org/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Solidity</A>
                     <DT><A HREF="https://www.npmjs.com/package/slugify" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Slugify</A>
