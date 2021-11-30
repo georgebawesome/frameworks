@@ -16,6 +16,8 @@
             <DL>
               <p> 
                    <DT><A HREF="https://immerjs.github.io/immer/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Immer</A>
+                   <DT><A HREF="https://tarekraafat.github.io/autoComplete.js/#/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">autoComplete</A>
+                   <DT><A HREF="https://web3js.readthedocs.io/en/v1.5.2/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Web3js</A>
                    <DT><A HREF="https://kaboomjs.com/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Kaboom</A>
                    <DT><A HREF="https://cssnano.co/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">CSSNano</A>
                    <DT><A HREF="https://soliditylang.org/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Solidity</A>
