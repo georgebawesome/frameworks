@@ -15,6 +15,7 @@
                 <H3 ADD_DATE="1629963327" LAST_MODIFIED="1636451377">Explore</H3>
                 <DL>
                     <DT><A HREF="https://tus.io/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Tus</A>
+                    <DT><A HREF="https://pptr.dev/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Puppeteer </A>
                     <DT><A HREF="https://atlasgo.io/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Atlsa</A>
                     <DT><A HREF="https://mauikit.org/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Mauikit</A>
                     <DT><A HREF="https://www.statiq.dev/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Statiq</A>
