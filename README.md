@@ -15,7 +15,7 @@
                 <H3 ADD_DATE="1629963327" LAST_MODIFIED="1636451377">Explore</H3>
                 <DL>
                     <DT><A HREF="https://tus.io/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Tus</A>
-                    <DT><A HREF="https://tus.io/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Tus</A>
+                    <DT><A HREF="https://mermaid-js.github.io/mermaid/#/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Mermaid</A>
                     <DT><A HREF="https://tings.wstone.io/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Tings</A>
                     <DT><A HREF="https://rematchjs.org/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Rematchjs</A>
                     <DT><A HREF="https://crank.js.org/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Crank</A>
