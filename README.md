@@ -14,6 +14,10 @@
             <DT>
                 <H3 ADD_DATE="1629963327" LAST_MODIFIED="1636451377">Explore</H3>
                 <DL>
+                    <DT><A HREF="https://tastejs.com/" ADD_DATE="1628830385">TasteJS</A>
+                    <DT><A HREF="https://js.devexpress.com/" ADD_DATE="1628830385">DevExpress</A>
+                    <DT><A HREF="https://enactjs.com/" ADD_DATE="1628830385">Enact</A>
+                    <DT><A HREF="https://www.emy-library.org/" ADD_DATE="1628830385">Emy Lib</A>
                     <DT><A HREF="https://tus.io/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Tus</A>
                     <DT><A HREF="https://www.qawolf.com/docs/why-qa-wolf" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">QAWolf</A>
                     <DT><A HREF="https://playwright.dev/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Playwright</A>
