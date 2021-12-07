@@ -15,6 +15,8 @@
                 <H3 ADD_DATE="1629963327" LAST_MODIFIED="1636451377">Explore</H3>
                 <DL>
                     <DT><A HREF="https://tastejs.com/" ADD_DATE="1628830385">TasteJS</A>
+                    <DT><A HREF="https://choria.io/" ADD_DATE="1628830385">Choria</A>
+                    <DT><A HREF="https://github.com/p13rnd/proxima" ADD_DATE="1628830385">Proxima</A>
                     <DT><A HREF="https://js.devexpress.com/" ADD_DATE="1628830385">DevExpress</A>
                     <DT><A HREF="https://enactjs.com/" ADD_DATE="1628830385">Enact</A>
                     <DT><A HREF="https://www.emy-library.org/" ADD_DATE="1628830385">Emy Lib</A>
