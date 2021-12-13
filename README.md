@@ -15,6 +15,7 @@
                 <H3 ADD_DATE="1629963327" LAST_MODIFIED="1636451377">Explore</H3>
                 <DL>
                     <DT><A HREF="https://tastejs.com/" ADD_DATE="1628830385">TasteJS</A>
+                    <DT><A HREF="https://codehike.org/" ADD_DATE="1628830385">CodeHike</A>
                     <DT><A HREF="https://github.com/arextar/Lazy.js" ADD_DATE="1628830385">Lazy.js</A>
                     <DT><A HREF="https://github.com/Eureka-Shoulders/fetchx" ADD_DATE="1628830385">Fetchx</A>
                     <DT><A HREF="https://www.scala-lang.org/" ADD_DATE="1628830385">Scala</A>
