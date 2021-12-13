@@ -15,6 +15,13 @@
                 <H3 ADD_DATE="1629963327" LAST_MODIFIED="1636451377">Explore</H3>
                 <DL>
                     <DT><A HREF="https://tastejs.com/" ADD_DATE="1628830385">TasteJS</A>
+                    <DT><A HREF="https://github.com/arextar/Lazy.js" ADD_DATE="1628830385">Lazy.js</A>
+                    <DT><A HREF="https://github.com/Eureka-Shoulders/fetchx" ADD_DATE="1628830385">Fetchx</A>
+                    <DT><A HREF="https://www.scala-lang.org/" ADD_DATE="1628830385">Scala</A>
+                    <DT><A HREF="https://www.contentlayer.dev/" ADD_DATE="1628830385">Contentlayer</A>
+                    <DT><A HREF="https://www.ferretdb.io/" ADD_DATE="1628830385">Ferret</A>
+                    <DT><A HREF="https://floating-ui.com/" ADD_DATE="1628830385">FloatingUI</A>
+                    <DT><A HREF="https://clojars.org/" ADD_DATE="1628830385">Clojars</A>
                     <DT><A HREF="https://choria.io/" ADD_DATE="1628830385">Choria</A>
                     <DT><A HREF="https://github.com/p13rnd/proxima" ADD_DATE="1628830385">Proxima</A>
                     <DT><A HREF="https://js.devexpress.com/" ADD_DATE="1628830385">DevExpress</A>
