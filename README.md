@@ -15,6 +15,9 @@
                 <H3 ADD_DATE="1629963327" LAST_MODIFIED="1636451377">Explore</H3>
                 <DL>
                     <DT><A HREF="https://tastejs.com/" ADD_DATE="1628830385">TasteJS</A>
+                    <DT><A HREF="https://bellard.org/quickjs/" ADD_DATE="1628830385">QuickJS</A>
+                    <DT><A HREF="https://www.datastax.com/" ADD_DATE="1628830385">DataStax</A>
+                    <DT><A HREF="https://datahub.io/" ADD_DATE="1628830385">DataHub</A>
                     <DT><A HREF="https://domq.sva.wiki/" ADD_DATE="1628830385">DomQ</A>
                     <DT><A HREF="https://klio.io/" ADD_DATE="1628830385">Klio</A>
                     <DT><A HREF="https://backstage.io/" ADD_DATE="1628830385">Backstage</A>
