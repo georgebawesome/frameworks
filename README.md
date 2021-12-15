@@ -15,6 +15,7 @@
                 <H3 ADD_DATE="1629963327" LAST_MODIFIED="1636451377">Explore</H3>
                 <DL>
                     <DT><A HREF="https://tastejs.com/" ADD_DATE="1628830385">TasteJS</A>
+                    <DT><A HREF="https://tastejs.com/" ADD_DATE="1628830385">TasteJS</A>
                     <DT><A HREF="https://evergreen.segment.com/" ADD_DATE="1628830385">Evergreen</A>
                     <DT><A HREF="http://react-toolbox.io/#/" ADD_DATE="1628830385">R Toolbox</A>
                     <DT><A HREF="https://splidejs.com/" ADD_DATE="1628830385">Splide</A>
