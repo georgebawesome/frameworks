@@ -15,6 +15,11 @@
                 <H3 ADD_DATE="1629963327" LAST_MODIFIED="1636451377">Explore</H3>
                 <DL>
                     <DT><A HREF="https://tastejs.com/" ADD_DATE="1628830385">TasteJS</A>
+                    <DT><A HREF="https://palantir.github.io/tslint/" ADD_DATE="1628830385">TSLint</A>
+                    <DT><A HREF="https://palantir.github.io/atlasdb/" ADD_DATE="1628830385">AtlasDB</A>
+                    <DT><A HREF="http://plottablejs.org/" ADD_DATE="1628830385">Plottable</A>
+                    <DT><A HREF="https://blueprintjs.com/" ADD_DATE="1628830385">Blueprint</A>
+                    <DT><A HREF="https://reactstrap.github.io/" ADD_DATE="1628830385">Reactstrap</A>
                     <DT><A HREF="https://bellard.org/quickjs/" ADD_DATE="1628830385">QuickJS</A>
                     <DT><A HREF="https://www.datastax.com/" ADD_DATE="1628830385">DataStax</A>
                     <DT><A HREF="https://datahub.io/" ADD_DATE="1628830385">DataHub</A>
@@ -43,7 +48,7 @@
                     <DT><A HREF="https://crank.js.org/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Crank</A>
                     <DT><A HREF="https://sandpack.codesandbox.io/docs/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Sandpack</A>
                     <DT><A HREF="https://pptr.dev/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Puppeteer </A>
-                    <DT><A HREF="https://atlasgo.io/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Atlsa</A>
+                    <DT><A HREF="https://atlasgo.io/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">AtlasGO</A>
                     <DT><A HREF="https://mauikit.org/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Mauikit</A>
                     <DT><A HREF="https://www.statiq.dev/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Statiq</A>
                     <DT><A HREF="https://web3-react-mu.vercel.app/" ADD_DATE="1618908209" ICON="data:image/png;base64,iVBOg==">Web3 React</A>
