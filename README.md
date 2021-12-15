@@ -15,6 +15,13 @@
                 <H3 ADD_DATE="1629963327" LAST_MODIFIED="1636451377">Explore</H3>
                 <DL>
                     <DT><A HREF="https://tastejs.com/" ADD_DATE="1628830385">TasteJS</A>
+                    <DT><A HREF="https://evergreen.segment.com/" ADD_DATE="1628830385">Evergreen</A>
+                    <DT><A HREF="http://react-toolbox.io/#/" ADD_DATE="1628830385">R Toolbox</A>
+                    <DT><A HREF="https://splidejs.com/" ADD_DATE="1628830385">Splide</A>
+                    <DT><A HREF="https://elrumordelaluz.github.io/csshake/" ADD_DATE="1628830385">CSShake</A>
+                    <DT><A HREF="https://www.minimamente.com/project/magic/" ADD_DATE="1628830385">Magic</A>
+                    <DT><A HREF="https://partytown.builder.io/" ADD_DATE="1628830385">Partytown</A>
+                    <DT><A HREF="https://tastejs.com/" ADD_DATE="1628830385">TasteJS</A>
                     <DT><A HREF="https://palantir.github.io/tslint/" ADD_DATE="1628830385">TSLint</A>
                     <DT><A HREF="https://palantir.github.io/atlasdb/" ADD_DATE="1628830385">AtlasDB</A>
                     <DT><A HREF="http://plottablejs.org/" ADD_DATE="1628830385">Plottable</A>
