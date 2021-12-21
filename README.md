@@ -15,7 +15,24 @@
                 <H3 ADD_DATE="1629963327" LAST_MODIFIED="1636451377">Explore</H3>
                 <DL>
                     <DT><A HREF="https://tastejs.com/" ADD_DATE="1628830385">TasteJS</A>
-                    <DT><A HREF="https://tastejs.com/" ADD_DATE="1628830385">TasteJS</A>
+                    <DT><A HREF="https://jotai.org/" ADD_DATE="1628830385">Jotai</A>
+                    <DT><A HREF="https://github.com/reframejs/reframe" ADD_DATE="1628830385">Reframe</A>
+                    <DT><A HREF="https://verdaccio.org/" ADD_DATE="1628830385">Verdaccio</A>
+                    <DT><A HREF="https://www.vendure.io/" ADD_DATE="1628830385">Vendure </A>
+                    <DT><A HREF="http://tridiv.com/" ADD_DATE="1628830385">Tridiv </A>
+                    <DT><A HREF="https://sheetjs.com/" ADD_DATE="1628830385">SheetJS </A>
+                    <DT><A HREF="https://million.js.org/" ADD_DATE="1628830385">Million</A>
+                    <DT><A HREF="https://directus.io/" ADD_DATE="1628830385">Directus</A>
+                    <DT><A HREF="https://formidable.com/open-source/" ADD_DATE="1628830385">Formidable OS</A>
+                    <DT><A HREF="https://docs.pmnd.rs/" ADD_DATE="1628830385">pmnd.rs</A>
+                    <DT><A HREF="https://github.com/animatedjs/animated" ADD_DATE="1628830385">Animated</A>
+                    <DT><A HREF="https://easy-peasy.vercel.app/" ADD_DATE="1628830385">EasyPeasy</A>
+                    <DT><A HREF="https://reactflow.dev/" ADD_DATE="1628830385">React Flow</A>
+                    <DT><A HREF="https://github.com/insin/nwb" ADD_DATE="NWB"</A>
+                    <DT><A HREF="https://neutrinojs.org/" ADD_DATE="1628830385">Neutrino</A>
+                    <DT><A HREF="https://www.lunasec.io/docs/" ADD_DATE="1628830385">LunaSec </A>
+                    <DT><A HREF="https://airbnb.io/lottie/#/" ADD_DATE="1628830385">Lottie </A>
+                    <DT><A HREF="https://github.com/pmndrs/valtio" ADD_DATE="1628830385">Valtio </A>
                     <DT><A HREF="https://evergreen.segment.com/" ADD_DATE="1628830385">Evergreen</A>
                     <DT><A HREF="http://react-toolbox.io/#/" ADD_DATE="1628830385">R Toolbox</A>
                     <DT><A HREF="https://splidejs.com/" ADD_DATE="1628830385">Splide</A>
