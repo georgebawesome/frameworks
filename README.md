@@ -16,6 +16,7 @@
                 <DL>
                     <DT><A HREF="https://tastejs.com/" ADD_DATE="1628830385">TasteJS</A>
                     <DT><A HREF="https://jotai.org/" ADD_DATE="1628830385">Jotai</A>
+                    <DT><A HREF="https://www.carbondesignsystem.com/" ADD_DATE="1628830385">Carbon DS</A>
                     <DT><A HREF="https://github.com/reframejs/reframe" ADD_DATE="1628830385">Reframe</A>
                     <DT><A HREF="https://verdaccio.org/" ADD_DATE="1628830385">Verdaccio</A>
                     <DT><A HREF="https://www.vendure.io/" ADD_DATE="1628830385">Vendure </A>
