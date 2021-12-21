@@ -16,6 +16,7 @@
                 <DL>
                     <DT><A HREF="https://tastejs.com/" ADD_DATE="1628830385">TasteJS</A>
                     <DT><A HREF="https://jotai.org/" ADD_DATE="1628830385">Jotai</A>
+                    <DT><A HREF="https://github.com/octokit/rest.js" ADD_DATE="1628830385">GH Rest</A>
                     <DT><A HREF="https://commercejs.com/" ADD_DATE="1628830385">Commercejs</A>
                     <DT><A HREF="https://github.com/reframejs/reframe" ADD_DATE="1628830385">Reframe</A>
                     <DT><A HREF="https://www.carbondesignsystem.com/" ADD_DATE="1628830385">Carbon DS</A>
