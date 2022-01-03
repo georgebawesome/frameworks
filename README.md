@@ -16,6 +16,10 @@
                 <DL>
                     <DT><A HREF="https://tastejs.com/" ADD_DATE="1628830385">TasteJS</A>
                     <DT><A HREF="https://jotai.org/" ADD_DATE="1628830385">Jotai</A>
+                    <DT><A HREF="https://github.com/RSS-Bridge/rss-bridge" ADD_DATE="1628830385">RSS Bridge</A>
+                    <DT><A HREF="https://opensearch.org/" ADD_DATE="1628830385">OpenSearch</A>
+                    <DT><A HREF="https://github.com/validatorjs/validator.js" ADD_DATE="1628830385">Validatorjs</A>
+                    <DT><A HREF="https://karma-runner.github.io/latest/index.html" ADD_DATE="1628830385">Karma</A>
                     <DT><A HREF="https://akshay.is-a.dev/pattern-lock-js/" ADD_DATE="1628830385">PatternLock.js</A>
                     <DT><A HREF="https://github.com/octokit/rest.js" ADD_DATE="1628830385">GH Rest</A>
                     <DT><A HREF="https://unocss.antfu.me/" ADD_DATE="1628830385">UnoCSS</A>
