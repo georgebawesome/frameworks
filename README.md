@@ -16,6 +16,9 @@
                 <DL>
                     <DT><A HREF="https://tastejs.com/" ADD_DATE="1628830385">TasteJS</A>
                     <DT><A HREF="https://jotai.org/" ADD_DATE="1628830385">Jotai</A>
+                    <DT><A HREF="https://litestream.io/" ADD_DATE="1628830385">Litestream</A>
+                    <DT><A HREF="https://turfjs.org/" ADD_DATE="1628830385">Turf.js</A>
+                    <DT><A HREF="https://www.vantajs.com/" ADD_DATE="1628830385">Vanta.js</A>
                     <DT><A HREF="https://gionkunz.github.io/chartist-js/" ADD_DATE="1628830385">Chartist</A>
                     <DT><A HREF="https://styled-system.com/" ADD_DATE="1628830385">Styled System</A>
                     <DT><A HREF="https://github.com/RSS-Bridge/rss-bridge" ADD_DATE="1628830385">RSS Bridge</A>
