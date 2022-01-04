@@ -15,6 +15,7 @@
                 <H3 ADD_DATE="1629963327" LAST_MODIFIED="1636451377">Explore</H3>
                 <DL>
                     <DT><A HREF="https://tastejs.com/" ADD_DATE="1628830385">TasteJS</A>
+                    <DT><A HREF="https://ffmpegwasm.netlify.app/" ADD_DATE="1628830385">FFMPEG.Wasm</A>
                     <DT><A HREF="https://jotai.org/" ADD_DATE="1628830385">Jotai</A>
                     <DT><A HREF="https://litestream.io/" ADD_DATE="1628830385">Litestream</A>
                     <DT><A HREF="https://turfjs.org/" ADD_DATE="1628830385">Turf.js</A>
