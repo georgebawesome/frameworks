@@ -15,6 +15,9 @@
                 <H3 ADD_DATE="1629963327" LAST_MODIFIED="1636451377">Explore</H3>
                 <DL>
                     <DT><A HREF="https://jotai.org/" ADD_DATE="1628830385">Jotai</A>
+                    <DT><A HREF="https://crystal-lang.org/" ADD_DATE="1628830385">Crystal</A>
+                    <DT><A HREF="https://luckyframework.org/" ADD_DATE="1628830385">Lucky</A>
+                    <DT><A HREF="https://rogeriochaves.github.io/unbreakablejs/" ADD_DATE="1628830385">Unbreakable</A>
                     <DT><A HREF="https://sitejs.org/" ADD_DATE="1628830385">Site.js</A>
                     <DT><A HREF="https://tastejs.com/" ADD_DATE="1628830385">TasteJS</A>
                     <DT><A HREF="https://ffmpegwasm.netlify.app/" ADD_DATE="1628830385">FFMPEG.Wasm</A>
