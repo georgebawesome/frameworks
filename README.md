@@ -15,6 +15,11 @@
                 <H3 ADD_DATE="1629963327" LAST_MODIFIED="1636451377">Explore</H3>
                 <DL>
                     <DT><A HREF="https://jotai.org/" ADD_DATE="1628830385">Jotai</A>
+                    <DT><A HREF="https://duckdb.org/" ADD_DATE="1628830385">DuckDB</A>
+                    <DT><A HREF="https://github.com/zserge/lorca" ADD_DATE="1628830385">Lorca</A>
+                    <DT><A HREF="https://jakejs.com/" ADD_DATE="1628830385">Jake</A>
+                    <DT><A HREF="https://nobelium.js.org/" ADD_DATE="1628830385">Nobelium</A>
+                    <DT><A HREF="https://netscanx.com/" ADD_DATE="1628830385">NetScanX</A>
                     <DT><A HREF="https://www.winehq.org/" ADD_DATE="1628830385">WineHQ</A>
                     <DT><A HREF="https://www.darlinghq.org/" ADD_DATE="1628830385">Darling</A>
                     <DT><A HREF="https://anbox.io/" ADD_DATE="1628830385">Anbox</A>
