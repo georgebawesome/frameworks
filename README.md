@@ -15,6 +15,8 @@
                 <H3 ADD_DATE="1629963327" LAST_MODIFIED="1636451377">Explore</H3>
                 <DL>
                     <DT><A HREF="https://jotai.org/" ADD_DATE="1628830385">Jotai</A>
+                    <DT><A HREF="https://www.linuxfoundation.org/projects/" ADD_DATE="1628830385">LinuxF</A>
+                    <DT><A HREF="https://servo.org/" ADD_DATE="1628830385">Servo</A>
                     <DT><A HREF="https://duckdb.org/" ADD_DATE="1628830385">DuckDB</A>
                     <DT><A HREF="https://github.com/zserge/lorca" ADD_DATE="1628830385">Lorca</A>
                     <DT><A HREF="https://jakejs.com/" ADD_DATE="1628830385">Jake</A>
