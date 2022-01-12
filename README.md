@@ -15,9 +15,6 @@
                 <H3 ADD_DATE="1629963327" LAST_MODIFIED="1636451377">Explore</H3>
                 <DL>
                     <DT><A HREF="https://jotai.org/" ADD_DATE="1628830385">Jotai</A>
-                    <DT><A HREF="https://webpy.org/" ADD_DATE="1628830385">Web.py</A>
-                    <DT><A HREF="https://www.linuxfoundation.org/projects/" ADD_DATE="1628830385">LinuxF</A>
-                    <DT><A HREF="https://servo.org/" ADD_DATE="1628830385">Servo</A>
                     <DT><A HREF="https://duckdb.org/" ADD_DATE="1628830385">DuckDB</A>
                     <DT><A HREF="https://github.com/zserge/lorca" ADD_DATE="1628830385">Lorca</A>
                     <DT><A HREF="https://jakejs.com/" ADD_DATE="1628830385">Jake</A>
@@ -28,7 +25,7 @@
                     <DT><A HREF="https://anbox.io/" ADD_DATE="1628830385">Anbox</A>
                     <DT><A HREF="https://crystal-lang.org/" ADD_DATE="1628830385">Crystal</A>
                     <DT><A HREF="https://luckyframework.org/" ADD_DATE="1628830385">Lucky</A>
-                    <DT><A HREF="https://rogeriochaves.github.io/unbreakablejs/" ADD_DATE="1628830385">Unbreakable</A>
+                    <DT><A HREF="https://rogeriochaves.github.io/unbreakablejs/" ADD_DATE="1628830385">Unbreak</A>
                     <DT><A HREF="https://sitejs.org/" ADD_DATE="1628830385">Site.js</A>
                     <DT><A HREF="https://tastejs.com/" ADD_DATE="1628830385">TasteJS</A>
                     <DT><A HREF="https://ffmpegwasm.netlify.app/" ADD_DATE="1628830385">FFMPEG.Wasm</A>
