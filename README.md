@@ -15,6 +15,26 @@
                 <H3 ADD_DATE="1629963327" LAST_MODIFIED="1636451377">Explore</H3>
                 <DL>
                     <DT><A HREF="https://jotai.org/" ADD_DATE="1628830385">Jotai</A>
+                    <DT><A HREF="http://getskeleton.com/" ADD_DATE="1628830385">Skeleton</A>
+                    <DT><A HREF="https://neovim.io/" ADD_DATE="1628830385">Neovim</A>
+                    <DT><A HREF="https://prosemirror.net/" ADD_DATE="1628830385">ProseMirror</A>
+                    <DT><A HREF="https://posativ.org/isso/" ADD_DATE="1628830385">Isso</A>
+                    <DT><A HREF="https://liquidjs.com/" ADD_DATE="1628830385">LiquidJS</A>
+                    <DT><A HREF="https://orgmode.org/" ADD_DATE="1628830385">OrgMode</A>
+                    <DT><A HREF="https://gitalk.github.io/" ADD_DATE="1628830385">Gitalk</A>
+                    <DT><A HREF="https://kucos.js.org/" ADD_DATE="1628830385">Kucos</A>
+                    <DT><A HREF="https://schnack.cool/" ADD_DATE="1628830385">Schnack</A>
+                    <DT><A HREF="https://phusion.github.io/juvia/" ADD_DATE="1628830385">Juvia</A>
+                    <DT><A HREF="https://imsun.github.io/gitment/" ADD_DATE="1628830385">Gitment</A>
+                    <DT><A HREF="https://github.com/patarapolw/aloud" ADD_DATE="1628830385">Aloud</A>
+                    <DT><A HREF="https://jotai.org/" ADD_DATE="1628830385">Jotai</A>
+                    <DT><A HREF="https://blankly.finance/" ADD_DATE="1628830385">Blankly</A>
+                    <DT><A HREF="https://swc.rs/" ADD_DATE="1628830385">SWC</A>
+                    <DT><A HREF="https://sequelize-schema-builder.vercel.app/" ADD_DATE="1628830385">Sequelize</A>
+                    <DT><A HREF="https://katex.org/" ADD_DATE="1628830385">KaTeX</A>
+                    <DT><A HREF="https://reakit.io/" ADD_DATE="1628830385">Reakit</A>
+                    <DT><A HREF="https://staticman.net/" ADD_DATE="1628830385">Staticman</A>
+                    <DT><A HREF="https://cusdis.com/" ADD_DATE="1628830385">Cusdis</A>
                     <DT><A HREF="https://duckdb.org/" ADD_DATE="1628830385">DuckDB</A>
                     <DT><A HREF="https://github.com/zserge/lorca" ADD_DATE="1628830385">Lorca</A>
                     <DT><A HREF="https://jakejs.com/" ADD_DATE="1628830385">Jake</A>
